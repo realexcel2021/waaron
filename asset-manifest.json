@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/waaron/static/css/main.0d0a9644.css",
+    "main.js": "/waaron/static/js/main.140e28f1.js",
+    "static/media/logo.svg": "/waaron/static/media/logo.dc99b53cb7b13dc86ebd8c92362f897c.svg",
+    "index.html": "/waaron/index.html",
+    "main.0d0a9644.css.map": "/waaron/static/css/main.0d0a9644.css.map",
+    "main.140e28f1.js.map": "/waaron/static/js/main.140e28f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0a9644.css",
+    "static/js/main.140e28f1.js"
+  ]
+}
